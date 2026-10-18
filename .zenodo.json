@@ -1,0 +1,13 @@
+{
+  "title": "Interference of Coherent Beams in Free Space: reproducible analytical checks and figures",
+  "upload_type": "software",
+  "description": "Code that numerically verifies the analytical results and regenerates all figures of the article 'Interference of Coherent Beams in Free Space: Separating Field Structure, Detector Response, and Back-Action'. Includes the crossing-plane-wave benchmark, crossed preparation-detector residual test, visibility identifiability analysis (coherence versus detector coupling), and quantum detection-channel checks. No experimental data.",
+  "creators": [
+    {"name": "Ghadi, Yazeed Yasin", "affiliation": "Al Ain University"},
+    {"name": "Guizani, Sghaier", "affiliation": "Alfaisal University"},
+    {"name": "Hamam, Habib", "affiliation": "Université de Moncton"}
+  ],
+  "license": "MIT",
+  "keywords": ["optical interference", "photodetection", "fringe visibility", "identifiability", "electromagnetic coherence"],
+  "access_right": "open"
+}

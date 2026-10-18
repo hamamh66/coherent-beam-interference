@@ -1,0 +1,19 @@
+cff-version: 1.2.0
+message: "If you use this code, please cite the archived release."
+title: "Interference of Coherent Beams in Free Space: reproducible analytical checks and figures"
+type: software
+license: MIT
+version: "1.0.0"
+date-released: "2026-10-17"
+repository-code: "https://github.com/hamamh66/coherent-beam-interference"
+authors:
+  - family-names: Ghadi
+    given-names: Yazeed Yasin
+    affiliation: "Al Ain University"
+  - family-names: Guizani
+    given-names: Sghaier
+    affiliation: "Alfaisal University"
+  - family-names: Hamam
+    given-names: Habib
+    affiliation: "Université de Moncton"
+keywords: [optical interference, photodetection, fringe visibility, identifiability, electromagnetic coherence]
