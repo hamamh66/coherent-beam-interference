@@ -1,5 +1,7 @@
 # Interference of Coherent Beams in Free Space: Separating Field Structure, Detector Response, and Back-Action
 
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.23445323.svg)](https://doi.org/10.5281/zenodo.23445323)
+
 Reproducible code for the analytical results and figures of the article
 *Interference of Coherent Beams in Free Space: Separating Field Structure, Detector
 Response, and Back-Action* (Y. Y. Ghadi, S. Guizani, H. Hamam).
@@ -43,7 +45,7 @@ an assertion error. All quantities are dimensionless (wavelength or amplitude se
 
 ## Citation
 
-Please cite the archived release (see `CITATION.cff`; the DOI is assigned by Zenodo).
+Please cite the archived release: https://doi.org/10.5281/zenodo.23445323 (see `CITATION.cff`).
 
 ## License
 

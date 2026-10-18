@@ -5,6 +5,7 @@ type: software
 license: MIT
 version: "1.0.0"
 date-released: "2026-10-17"
+doi: "10.5281/zenodo.23445323"
 repository-code: "https://github.com/hamamh66/coherent-beam-interference"
 authors:
   - family-names: Ghadi
